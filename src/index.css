@@ -1,0 +1,49 @@
+body {
+  background-image: url(back.jpg)
+}
+
+.box {
+  display: inline-block;
+  border: 0.1px solid rgba(0, 0, 0, 0.678);
+  width: 15px;
+  height: 15px;
+  margin-left: -1px;
+  margin-bottom: -1px;
+  }
+
+.off {
+  background-color: rgb(252, 161, 161);
+}
+
+.on {
+  background-color: rgb(223, 9, 20);
+}
+
+.box:hover {
+  background: #00CCFF;
+}
+
+.center {
+  margin: auto;
+  display: table;
+  margin-top: 10px;
+}
+
+.grid {
+  width: 200px;
+  line-height: 0;
+  margin: auto;  
+  margin-top: 20px;
+}
+
+h1, h2, h3, h4 {
+  color: white;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  margin-top: 10px;
+}
+
+h4 {
+  margin-top: 0px;
+}
