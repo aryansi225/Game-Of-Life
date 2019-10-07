@@ -24,5 +24,5 @@ NPM,
 React JS,
 create-react-app takes care of other dependencies.
 
-# Credits
-Youtube Video that helped me make this - https://www.youtube.com/watch?v=PM0_Er3SvFQ&t
+# References
+https://www.youtube.com/watch?v=PM0_Er3SvFQ&t
