@@ -26,3 +26,14 @@ create-react-app takes care of other dependencies.
 
 # References
 https://www.youtube.com/watch?v=PM0_Er3SvFQ&t
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Reimplemented it by watching and learning from the educational video in reference.
+Additionally fixed few bugs like generation will not increase unless there is any seeding or live cell in the grid.
+Deployed the react-app to heroku.
+
+Major Learnings => 
+Learnt how to use react to make basic application.
+Learnt how to deploy to heroku.
